@@ -48,3 +48,5 @@ if [ $? -eq 0 ]; then
     --profile awsbootstrap \
     --query "Exports[?Name=='InstanceEndpoint'].Value" 
 fi
+
+
