@@ -245,8 +245,8 @@ Resources:
             mkdir -p /home/ec2-user/app/logs
 
             # Run server
-            #cd app
-            #npm install
+            cd app
+            npm install
             #npm start
           EOF
 
