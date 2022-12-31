@@ -1,3 +1,4 @@
+
 source aws_credentials.sh
 
 STACK_NAME=awsbootstrap
